@@ -1,0 +1,10 @@
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\bin\Debug\LibraryManagementOnline.exe.config
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\bin\Debug\LibraryManagementOnline.exe
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\bin\Debug\LibraryManagementOnline.pdb
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\obj\Debug\LibraryManagementOnline.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\obj\Debug\LibraryManagementOnline.MainForm.resources
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\obj\Debug\LibraryManagementOnline.Properties.Resources.resources
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\obj\Debug\LibraryManagementOnline.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\obj\Debug\LibraryManagementOnline.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\obj\Debug\LibraryManagementOnline.exe
+C:\Users\Hp\source\repos\LibraryManagementOnline\LibraryManagementOnline\obj\Debug\LibraryManagementOnline.pdb
